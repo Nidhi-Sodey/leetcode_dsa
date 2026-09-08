@@ -30,4 +30,8 @@
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
