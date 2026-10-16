@@ -7,11 +7,13 @@
 | [0001-two-sum](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/0027-remove-element) |
+| [0217-contains-duplicate](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
@@ -34,4 +36,8 @@
 |  |
 | ------- |
 | [3870-count-commas-in-range](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/3870-count-commas-in-range) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
