@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/0238-product-of-array-except-self) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/0217-contains-duplicate) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
