@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/0238-product-of-array-except-self) |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nidhi-Sodey/leetcode_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
